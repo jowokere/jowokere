@@ -1,8 +1,14 @@
-### Hi there 👋
-# ProfilPorto
-## Ini Contoh Ya
+<p align="center"> <picture align ="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jowokere/jowokere/blob/main/cooltext441442201368770.gif">
+  <img alt="Rahman Wakhid" src="https://github.com/jowokere/jowokere/blob/main/cooltext441442201368770.gif">
+</picture>
+</p>
 
-### Halo semua! 
+# Hi there 👋
+## ProfilPorto
+### Ini Contoh Ya
+
+#### Halo semua! 
 
 Perkenalkan nama saya **Rahman**.\
 
